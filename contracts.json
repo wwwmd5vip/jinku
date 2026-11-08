@@ -8,7 +8,9 @@
       "decimals": 6,
       "standard": "ERC20",
       "verified": true,
-      "icon": "icons/tokens/ethereum/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
+      "icon": "icons/tokens/ethereum/0xdAC17F958D2ee523a2206206994597C13D831ec7.png",
+      "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange Bitfinex)\n\nThe digital coins are issued by a company called Tether Limited that is governed by the laws of the British Virgin Islands, according to the legal part of its website. It is incorporated in Hong Kong. It has emerged that Jan Ludovicus van der Velde is the CEO of cryptocurrency exchange Bitfinex, which has been accused of being involved in the price manipulation of bitcoin, as well as tether. Many people trading on exchanges, including Bitfinex, will use tether to buy other cryptocurrencies like bitcoin. Tether Limited argues that using this method to buy virtual currencies allows users to move fiat in and out of an exchange more quickly and cheaply. Also, exchanges typically have rocky relationships with banks, and using Tether is a way to circumvent that.\n\nUSDT is fairly simple to use. Once on exchanges like Poloniex or Bittrex, it can be used to purchase Bitcoin and other cryptocurrencies. It can be easily transferred from an exchange to any Omni Layer enabled wallet. Tether has no transaction fees, although external wallets and exchanges may charge one. In order to convert USDT to USD and vise versa through the Tether.to Platform, users must pay a small fee. Buying and selling Tether for Bitcoin can be done through a variety of exchanges like the ones mentioned previously or through the Tether.to platform, which also allows the conversion between USD to and from your bank account.",
+      "website": "https://tether.to/"
     },
     {
       "chain": "ethereum",
@@ -18,7 +20,9 @@
       "decimals": 6,
       "standard": "ERC20",
       "verified": true,
-      "icon": "icons/tokens/ethereum/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png"
+      "icon": "icons/tokens/ethereum/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png",
+      "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy.",
+      "website": "https://www.circle.com/en/usdc"
     },
     {
       "chain": "ethereum",
@@ -28,7 +32,9 @@
       "decimals": 18,
       "standard": "ERC20",
       "verified": true,
-      "icon": "icons/tokens/ethereum/0x6B175474E89094C44Da98b954EedeAC495271d0F.png"
+      "icon": "icons/tokens/ethereum/0x6B175474E89094C44Da98b954EedeAC495271d0F.png",
+      "description": "MakerDAO has launched Multi-collateral DAI (MCD). This token refers to the new DAI that is collaterized by multiple assets.",
+      "website": "https://makerdao.com/"
     },
     {
       "chain": "ethereum",
@@ -38,7 +44,9 @@
       "decimals": 8,
       "standard": "ERC20",
       "verified": true,
-      "icon": "icons/tokens/ethereum/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png"
+      "icon": "icons/tokens/ethereum/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png",
+      "description": "WBTC is the first and largest 1:1 tokenized Bitcoin used across multiple chains, providing a consistent way to use BTC in environments that prioritize speed, efficiency, and scale while staying aligned with Bitcoin’s original principles. It operates as a trusted and verifiable asset designed for a multichain environment. WBTC’s custody model is built for security, with controlled minting and burning, 24/7 monitoring, strict access control, multi-party key handling, and regular audits to maintain high standards of security and compliance.",
+      "website": "https://www.wbtc.network/"
     },
     {
       "chain": "bsc",
@@ -48,7 +56,9 @@
       "decimals": 18,
       "standard": "BEP20",
       "verified": true,
-      "icon": "icons/tokens/bsc/0x55d398326f99059fF775485246999027B3197955.png"
+      "icon": "icons/tokens/bsc/0x55d398326f99059fF775485246999027B3197955.png",
+      "website": "https://tether.to/",
+      "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange Bitfinex)\n\nThe digital coins are issued by a company called Tether Limited that is governed by the laws of the British Virgin Islands, according to the legal part of its website. It is incorporated in Hong Kong. It has emerged that Jan Ludovicus van der Velde is the CEO of cryptocurrency exchange Bitfinex, which has been accused of being involved in the price manipulation of bitcoin, as well as tether. Many people trading on exchanges, including Bitfinex, will use tether to buy other cryptocurrencies like bitcoin. Tether Limited argues that using this method to buy virtual currencies allows users to move fiat in and out of an exchange more quickly and cheaply. Also, exchanges typically have rocky relationships with banks, and using Tether is a way to circumvent that.\n\nUSDT is fairly simple to use. Once on exchanges like Poloniex or Bittrex, it can be used to purchase Bitcoin and other cryptocurrencies. It can be easily transferred from an exchange to any Omni Layer enabled wallet. Tether has no transaction fees, although external wallets and exchanges may charge one. In order to convert USDT to USD and vise versa through the Tether.to Platform, users must pay a small fee. Buying and selling Tether for Bitcoin can be done through a variety of exchanges like the ones mentioned previously or through the Tether.to platform, which also allows the conversion between USD to and from your bank account."
     },
     {
       "chain": "bsc",
@@ -58,7 +68,9 @@
       "decimals": 18,
       "standard": "BEP20",
       "verified": true,
-      "icon": "icons/tokens/bsc/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+      "icon": "icons/tokens/bsc/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png",
+      "website": "https://www.circle.com/en/usdc",
+      "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy."
     },
     {
       "chain": "polygon",
@@ -68,7 +80,9 @@
       "decimals": 6,
       "standard": "ERC20",
       "verified": true,
-      "icon": "icons/tokens/polygon/0xc2132D05D31c914a87C6611C10748AEb04B58e8F.png"
+      "icon": "icons/tokens/polygon/0xc2132D05D31c914a87C6611C10748AEb04B58e8F.png",
+      "description": "USDT0 ensures fast, secure, and cost-efficient cross-chain transfers all while maintaining a strict 1:1 backing with USDT.",
+      "website": "https://usdt0.to/"
     },
     {
       "chain": "polygon",
@@ -78,7 +92,9 @@
       "decimals": 6,
       "standard": "ERC20",
       "verified": true,
-      "icon": "icons/tokens/polygon/0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359.png"
+      "icon": "icons/tokens/polygon/0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359.png",
+      "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy.",
+      "website": "https://www.circle.com/en/usdc"
     },
     {
       "chain": "tron",
@@ -88,7 +104,9 @@
       "decimals": 6,
       "standard": "TRC20",
       "verified": true,
-      "icon": "icons/tokens/tron/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t.png"
+      "icon": "icons/tokens/tron/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t.png",
+      "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this purpose of being a stable dollar substitute are called “stable coins.” Tether is the most popular stable coin and even acts as a dollar replacement on many popular exchanges! According to their site, Tether converts cash into digital currency, to anchor or “tether” the value of the coin to the price of national currencies like the US dollar, the Euro, and the Yen. Like other cryptos it uses blockchain. Unlike other cryptos, it is [according to the official Tether site] “100% backed by USD” (USD is held in reserve). The primary use of Tether is that it offers some stability to the otherwise volatile crypto space and offers liquidity to exchanges who can’t deal in dollars and with banks (for example to the sometimes controversial but leading exchange Bitfinex)\n\nThe digital coins are issued by a company called Tether Limited that is governed by the laws of the British Virgin Islands, according to the legal part of its website. It is incorporated in Hong Kong. It has emerged that Jan Ludovicus van der Velde is the CEO of cryptocurrency exchange Bitfinex, which has been accused of being involved in the price manipulation of bitcoin, as well as tether. Many people trading on exchanges, including Bitfinex, will use tether to buy other cryptocurrencies like bitcoin. Tether Limited argues that using this method to buy virtual currencies allows users to move fiat in and out of an exchange more quickly and cheaply. Also, exchanges typically have rocky relationships with banks, and using Tether is a way to circumvent that.\n\nUSDT is fairly simple to use. Once on exchanges like Poloniex or Bittrex, it can be used to purchase Bitcoin and other cryptocurrencies. It can be easily transferred from an exchange to any Omni Layer enabled wallet. Tether has no transaction fees, although external wallets and exchanges may charge one. In order to convert USDT to USD and vise versa through the Tether.to Platform, users must pay a small fee. Buying and selling Tether for Bitcoin can be done through a variety of exchanges like the ones mentioned previously or through the Tether.to platform, which also allows the conversion between USD to and from your bank account.",
+      "website": "https://tether.to/"
     },
     {
       "chain": "tron",
@@ -98,7 +116,9 @@
       "decimals": 6,
       "standard": "TRC20",
       "verified": true,
-      "icon": "icons/tokens/tron/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8.png"
+      "icon": "icons/tokens/tron/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8.png",
+      "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy.",
+      "website": "https://www.circle.com/en/usdc"
     }
   ]
 }
