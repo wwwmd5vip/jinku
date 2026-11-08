@@ -1,0 +1,10 @@
+{
+  "chain": "ethereum",
+  "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "risk": "verified",
+  "updatedAt": "2026-11-08T14:10:00Z",
+  "sig": "086b3172b2b9a97db43d978c0a40948991fcc509cfd1e13b757966061365f7146bd1ad8afbe9101e75a8d5f7c7608398ec8547a037d2cfd0d55cb7b106f6cc0b"
+}

@@ -1,0 +1,10 @@
+{
+  "chain": "polygon",
+  "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "risk": "verified",
+  "updatedAt": "2026-11-08T14:10:00Z",
+  "sig": "7a9aa0d596788f2e1138cbf19f1b43dab79af962e1020f3e1f16d4234ba226e26e655bb8febe2c1d7b7b1780852bff7cedace7703eed244de4c5ac926d2c0808"
+}

@@ -1,0 +1,10 @@
+{
+  "chain": "tron",
+  "address": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "decimals": 6,
+  "risk": "verified",
+  "updatedAt": "2026-11-08T14:10:00Z",
+  "sig": "3af04b1733f920da518ef4dc46fa71e69306369b29156eb340164d7369fd015bdca9a5a3d888c3020b43cf15ae9fa6370ab75a8ac0b60366a5da36f41be9c50f"
+}

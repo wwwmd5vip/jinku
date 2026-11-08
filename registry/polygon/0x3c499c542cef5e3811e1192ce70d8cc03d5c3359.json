@@ -1,0 +1,10 @@
+{
+  "chain": "polygon",
+  "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "decimals": 6,
+  "risk": "verified",
+  "updatedAt": "2026-11-08T14:10:00Z",
+  "sig": "a306cbeb0a94badbab64e5c3043def20daad16679f7fae6a8887c194a260bf0c0b0a6c64db31b5f3247a0aa0079beefa726eeecc4b1dc8c9ca8f4fea4a3c970a"
+}

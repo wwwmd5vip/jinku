@@ -1,0 +1,10 @@
+{
+  "chain": "tron",
+  "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "risk": "verified",
+  "updatedAt": "2026-11-08T14:10:00Z",
+  "sig": "003d102335cfe24af6e8d7f43bb6082a0c8531fb572243e385872f9096b7a5d5a9eef05e1b9df1703c4d6f2617ab93b42e00dc86429fa985566acc5d18f7fc0f"
+}

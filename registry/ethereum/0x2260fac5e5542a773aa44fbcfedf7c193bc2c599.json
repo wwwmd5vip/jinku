@@ -1,0 +1,10 @@
+{
+  "chain": "ethereum",
+  "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+  "name": "Wrapped BTC",
+  "symbol": "WBTC",
+  "decimals": 8,
+  "risk": "verified",
+  "updatedAt": "2026-11-08T14:10:00Z",
+  "sig": "459ed2e4431017a19032053e250497630053d1912fe3f07e29bd3f4895b2f9a55035b089338b71d76e77bd424a99c225e8b8ca9170f11c44fbf5785ce6397404"
+}

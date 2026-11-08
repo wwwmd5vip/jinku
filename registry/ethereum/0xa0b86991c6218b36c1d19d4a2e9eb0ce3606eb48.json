@@ -1,0 +1,10 @@
+{
+  "chain": "ethereum",
+  "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "decimals": 6,
+  "risk": "verified",
+  "updatedAt": "2026-11-08T14:10:00Z",
+  "sig": "8ca5ab5d7f143dae2d801a454d3bd9aa7fcc4ff9089e294b647865c90d414aaf7f3acdeb21d5d9cf0de3f0013935bfd8009c450aa2b30559198ab6bc947dd802"
+}

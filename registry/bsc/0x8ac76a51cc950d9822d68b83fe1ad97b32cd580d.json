@@ -1,0 +1,10 @@
+{
+  "chain": "bsc",
+  "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "decimals": 18,
+  "risk": "verified",
+  "updatedAt": "2026-11-08T14:10:00Z",
+  "sig": "caa071796514a468b09d6bfad2af14574591b5a06f84f601af37d1d3188edacf3219811ac217f0e9f2d48fbb563dca9c264419fce41a9ec02e86380cb2194403"
+}

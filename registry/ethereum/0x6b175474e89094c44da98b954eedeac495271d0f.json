@@ -1,0 +1,10 @@
+{
+  "chain": "ethereum",
+  "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+  "name": "Dai Stablecoin",
+  "symbol": "DAI",
+  "decimals": 18,
+  "risk": "verified",
+  "updatedAt": "2026-11-08T14:10:00Z",
+  "sig": "acb188c0c05a96be1b620058a905d0dd0f374323fd092fad00474be9d098009e5c15b61c741cd12da031938cf67920ec76ba78207d2d404c63ce7ebb54bac900"
+}

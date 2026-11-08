@@ -1,0 +1,10 @@
+{
+  "chain": "bsc",
+  "address": "0x55d398326f99059fF775485246999027B3197955",
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 18,
+  "risk": "verified",
+  "updatedAt": "2026-11-08T14:10:00Z",
+  "sig": "c2e08c5a04d6169d2756c618f0c9e1716f5568809141bb1906adb31866fe5a7207e10eea8402771435bb95c10ba6649825db9765271b8132f2c0c21bc6c3610c"
+}
