@@ -1,0 +1,67 @@
+{
+  "chains": [
+    {
+      "id": "btc",
+      "name": "Bitcoin",
+      "nameZh": "比特币",
+      "symbol": "BTC",
+      "decimals": 8,
+      "type": "utxo",
+      "explorer": "https://mempool.space",
+      "explorerTx": "https://mempool.space/tx/{txid}",
+      "explorerAddress": "https://mempool.space/address/{address}",
+      "icon": "icons/chains/btc.png"
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "nameZh": "以太坊",
+      "symbol": "ETH",
+      "decimals": 18,
+      "type": "evm",
+      "evmChainId": 1,
+      "explorer": "https://etherscan.io",
+      "explorerTx": "https://etherscan.io/tx/{txid}",
+      "explorerAddress": "https://etherscan.io/address/{address}",
+      "icon": "icons/chains/ethereum.png"
+    },
+    {
+      "id": "bsc",
+      "name": "BNB Smart Chain",
+      "nameZh": "币安智能链",
+      "symbol": "BNB",
+      "decimals": 18,
+      "type": "evm",
+      "evmChainId": 56,
+      "explorer": "https://bscscan.com",
+      "explorerTx": "https://bscscan.com/tx/{txid}",
+      "explorerAddress": "https://bscscan.com/address/{address}",
+      "icon": "icons/chains/bsc.png"
+    },
+    {
+      "id": "polygon",
+      "name": "Polygon",
+      "nameZh": "Polygon",
+      "symbol": "POL",
+      "decimals": 18,
+      "type": "evm",
+      "evmChainId": 137,
+      "explorer": "https://polygonscan.com",
+      "explorerTx": "https://polygonscan.com/tx/{txid}",
+      "explorerAddress": "https://polygonscan.com/address/{address}",
+      "icon": "icons/chains/polygon.png"
+    },
+    {
+      "id": "tron",
+      "name": "TRON",
+      "nameZh": "波场",
+      "symbol": "TRX",
+      "decimals": 6,
+      "type": "tron",
+      "explorer": "https://tronscan.org",
+      "explorerTx": "https://tronscan.org/#/transaction/{txid}",
+      "explorerAddress": "https://tronscan.org/#/address/{address}",
+      "icon": "icons/chains/tron.png"
+    }
+  ]
+}

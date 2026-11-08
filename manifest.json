@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-08T14:10:00Z",
+  "baseUrl": "https://raw.githubusercontent.com/wwwmd5vip/jinku/main",
+  "files": {
+    "chains": "chains.json",
+    "rpc": "rpc.json",
+    "contracts": "contracts.json"
+  },
+  "icons": {
+    "chain": "icons/chains/{chainId}.png",
+    "token": "icons/tokens/{chain}/{address}.png"
+  }
+}

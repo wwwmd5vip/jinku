@@ -1,0 +1,44 @@
+{
+  "btc": {
+    "type": "rest",
+    "endpoints": [
+      { "url": "https://mempool.space/api", "priority": 1 },
+      { "url": "https://blockstream.info/api", "priority": 2 }
+    ]
+  },
+  "ethereum": {
+    "type": "evm-jsonrpc",
+    "evmChainId": 1,
+    "endpoints": [
+      { "url": "https://eth.llamarpc.com", "priority": 1 },
+      { "url": "https://ethereum.publicnode.com", "priority": 2 },
+      { "url": "https://rpc.ankr.com/eth", "priority": 3 },
+      { "url": "https://cloudflare-eth.com", "priority": 4 }
+    ]
+  },
+  "bsc": {
+    "type": "evm-jsonrpc",
+    "evmChainId": 56,
+    "endpoints": [
+      { "url": "https://bsc-dataseed.binance.org", "priority": 1 },
+      { "url": "https://bsc.publicnode.com", "priority": 2 },
+      { "url": "https://rpc.ankr.com/bsc", "priority": 3 }
+    ]
+  },
+  "polygon": {
+    "type": "evm-jsonrpc",
+    "evmChainId": 137,
+    "endpoints": [
+      { "url": "https://polygon-rpc.com", "priority": 1 },
+      { "url": "https://polygon-bor.publicnode.com", "priority": 2 },
+      { "url": "https://rpc.ankr.com/polygon", "priority": 3 }
+    ]
+  },
+  "tron": {
+    "type": "trongrid",
+    "endpoints": [
+      { "url": "https://api.trongrid.io", "priority": 1 },
+      { "url": "https://api.tronstack.io", "priority": 2 }
+    ]
+  }
+}

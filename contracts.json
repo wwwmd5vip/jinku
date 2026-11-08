@@ -1,0 +1,104 @@
+{
+  "contracts": [
+    {
+      "chain": "ethereum",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "standard": "ERC20",
+      "verified": true,
+      "icon": "icons/tokens/ethereum/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
+    },
+    {
+      "chain": "ethereum",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "standard": "ERC20",
+      "verified": true,
+      "icon": "icons/tokens/ethereum/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png"
+    },
+    {
+      "chain": "ethereum",
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "standard": "ERC20",
+      "verified": true,
+      "icon": "icons/tokens/ethereum/0x6B175474E89094C44Da98b954EedeAC495271d0F.png"
+    },
+    {
+      "chain": "ethereum",
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "standard": "ERC20",
+      "verified": true,
+      "icon": "icons/tokens/ethereum/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png"
+    },
+    {
+      "chain": "bsc",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "standard": "BEP20",
+      "verified": true,
+      "icon": "icons/tokens/bsc/0x55d398326f99059fF775485246999027B3197955.png"
+    },
+    {
+      "chain": "bsc",
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "standard": "BEP20",
+      "verified": true,
+      "icon": "icons/tokens/bsc/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+    },
+    {
+      "chain": "polygon",
+      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "standard": "ERC20",
+      "verified": true,
+      "icon": "icons/tokens/polygon/0xc2132D05D31c914a87C6611C10748AEb04B58e8F.png"
+    },
+    {
+      "chain": "polygon",
+      "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "standard": "ERC20",
+      "verified": true,
+      "icon": "icons/tokens/polygon/0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359.png"
+    },
+    {
+      "chain": "tron",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "standard": "TRC20",
+      "verified": true,
+      "icon": "icons/tokens/tron/TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t.png"
+    },
+    {
+      "chain": "tron",
+      "address": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "standard": "TRC20",
+      "verified": true,
+      "icon": "icons/tokens/tron/TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8.png"
+    }
+  ]
+}
